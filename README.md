@@ -1,4 +1,4 @@
-# Free Email Templates by Colorlib.
+# Free Email Templates by Activehubb.
 
 Free HTML email templates for Mailchimp and other emails services
 
